@@ -6,4 +6,3 @@ A streamlit app showing image processing techniques. It has a sidebar with image
 1. cv2
 2. numpy
 3. streamlit
-
