@@ -13,3 +13,7 @@ A streamlit app showing image processing techniques. It has a sidebar with image
 2. Morphogical Transformation
 3. Canny Edge Detection
 4. Face Detection
+
+
+https://user-images.githubusercontent.com/76691957/175074750-b0e7368a-df85-4157-9be4-c101cf970aa6.mp4
+
